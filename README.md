@@ -51,7 +51,7 @@ This project uses a weather API to fetch real-time weather information based on 
 * Weather Icons Animation
 
 ## Live Demo
-
+https://piyush572stv.github.io/weather-app/
 
 ##  Author
 
